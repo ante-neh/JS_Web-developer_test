@@ -20,8 +20,6 @@ npm install
 ### 4. **Create .env File**
 Add the following to a .env file in the root directory:
 
-makefile
-Copy code
 DB_HOST=localhost
 DB_USER=your_user
 DB_PASSWORD=your_password
