@@ -32,4 +32,7 @@ npm start
 Access the GET /api/usercount endpoint:
 
 ```bash
-curl http://localhost:3000/api/usercount
+curl http://localhost:3000/api/usercount 
+```
+### 6. **You can acess the api documention**: 
+http://localhost:6776/docs
